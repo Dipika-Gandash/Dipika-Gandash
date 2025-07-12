@@ -1,8 +1,9 @@
 # 👋 Hi, I'm Dipika!
 
-💻 MERN stack developer actively building real-world projects to level up my skills and become industry-ready.
-📘 Currently getting hands-on with TypeScript and Next.js to build smarter, faster, and more powerful frontend projects
-🚀 Looking for internships and entry-level opportunities in tech
+💻 MERN stack developer actively building real-world projects to level up my skills and become industry-ready.  
+📘 Currently getting hands-on with TypeScript and Next.js to build smarter, faster, and more powerful frontend projects.  
+🚀 Looking for internships and entry-level opportunities in tech.
+
 
 <--
 - 🔭 I’m currently working on ...
