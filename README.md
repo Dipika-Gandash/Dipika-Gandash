@@ -96,7 +96,7 @@ Here are a few technical blogs I’ve written on Medium:
 
 ## 📬 Connect with Me
 
-## 📬 Connect with Me
+
 
 - 📩 Email: [dipikagandash411@gmail.com](mailto:dipikagandash411@gmail.com)
 - 🔗 LinkedIn: [linkedin.com/in/dipika-411-910318251](https://www.linkedin.com/in/dipika-411-910318251/)
