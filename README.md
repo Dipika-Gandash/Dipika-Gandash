@@ -1,10 +1,10 @@
-## Hi there 👋
+# 👋 Hi, I'm Dipika!
 
-<!--
-**Dipika-Gandash/Dipika-Gandash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 MERN stack developer actively building real-world projects to level up my skills and become industry-ready.
+📘 Currently getting hands-on with TypeScript and Next.js to build smarter, faster, and more powerful frontend projects
+🚀 Looking for internships and entry-level opportunities in tech
 
-Here are some ideas to get you started:
-
+<--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
