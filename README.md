@@ -96,20 +96,10 @@ Here are a few technical blogs I’ve written on Medium:
 
 ## 📬 Connect with Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/dipika-411-910318251/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-right:10px;" />
-  </a>
-  <a href="mailto:dipikagandash411@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="margin-right:10px;" />
-  </a>
-  <a href="https://medium.com/@dipikagandash411" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" style="margin-right:10px;" />
-  </a>
-  <a href="https://leetcode.com/u/Dipika_gandash/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" style="margin-right:10px;" />
-  </a>
-  <a href="https://github.com/Dipika" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" style="margin-right:10px;" />
-  </a>
-</p>
+## 📬 Connect with Me
+
+- 📩 Email: [dipikagandash411@gmail.com](mailto:dipikagandash411@gmail.com)
+- 🔗 LinkedIn: [linkedin.com/in/dipika-411-910318251](https://www.linkedin.com/in/dipika-411-910318251/)
+- 📝 Medium: [medium.com/@dipikagandash411](https://medium.com/@dipikagandash411)
+- 💡 LeetCode: [leetcode.com/u/Dipika_gandash](https://leetcode.com/u/Dipika_gandash/)
+
