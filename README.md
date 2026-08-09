@@ -12,8 +12,7 @@
 </div>
 
 <p align="center">
-  Full-stack developer working across the MERN stack, currently building with Next.js, TypeScript, and Supabase.<br/>
-  Open to entry-level and internship roles where I can ship real features from day one.
+Building web apps with React, Next.js, Node.js, TypeScript, MongoDB & PostgreSQL.<br/>
 </p>
 
 <br/>
@@ -45,11 +44,16 @@
 
 <br/>
 
-<h3 align="center">🚀 Featured Project</h3>
+<h1 align="center">🚀 Featured</h1>
 
-<div align="center">
+<table align="center" border="0">
+<tr>
+<td align="center" width="90" valign="middle">
+<h1>🔗</h1>
+</td>
+<td valign="middle">
 
-**[TrimLink](#) — URL Shortener & Analytics Platform**
+**TrimLink — URL Shortener & Analytics Platform**
 
 Full-stack link shortener with real-time click analytics (device, city, country) — Supabase for Auth/DB/Storage, React + Vite on the frontend, deployed on Vercel.
 
@@ -58,14 +62,14 @@ Full-stack link shortener with real-time click analytics (device, city, country)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-</div>
+</td>
+</tr>
+</table>
 
 <br/>
 
-<h3 align="center">🐍 Contribution Snake</h3>
+<h3 align="center">📅 Contribution Calendar</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Dipika-Gandash/Dipika-Gandash/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Dipika-Gandash/Dipika-Gandash/main/profile-3d-contrib/profile-green-animate.svg" alt="3D contribution calendar" width="100%"/>
 </p>
-
-<p align="center"><i>Won't show anything yet — see note below on where it lives and how to activate it.</i></p>
