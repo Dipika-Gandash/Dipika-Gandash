@@ -23,30 +23,30 @@
 <div align="center">
 
 **Languages**
-<br/>
+<br/> <br />
 <img src="https://skillicons.dev/icons?i=js,ts" />
 
 **Frontend**
-<br/>
+<br/> <br />
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
 
 **Backend**
-<br/>
+<br/> <br />
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 
 **Database & BaaS**
-<br/>
+<br/> <br />
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase,firebase" />
 
 **Tools**
-<br/>
+<br/> <br />
 <img src="https://skillicons.dev/icons?i=git,github,vercel,postman" />
 
 </div>
 
 <br/>
 
-<h1 align="center">🚀 Featured</h1>
+<h2 align="center">🚀 Featured</h1>
 
 <table align="center" border="0">
 <tr>
