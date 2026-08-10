@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=61DAFB&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Dipika+%F0%9F%91%8B;Full-Stack+Web+Developer;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Node.js;I+build+things%2C+then+write+about+them" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=61DAFB&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Dipika+%F0%9F%91%8B;Full-Stack+Web+Developer;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Node.js" alt="Typing SVG" />
 
 <br/>
 
@@ -12,8 +12,8 @@
 </div>
 
 <p align="center">
-  I build full-stack web apps with the MERN stack, and I'm leveling up with Next.js, TypeScript, and Supabase.<br/>
-  Looking for an entry-level or internship role where I can ship real features and keep growing.
+ Building web apps with React, Next.js, Node.js, TypeScript, MongoDB & PostgreSQL. 🚀
+<br/>
 </p>
 
 <br/>
