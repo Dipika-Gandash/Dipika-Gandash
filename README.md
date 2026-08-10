@@ -12,35 +12,37 @@
 </div>
 
 <p align="center">
-Building web apps with React, Next.js, Node.js, TypeScript, MongoDB & PostgreSQL.<br/>
+  I build full-stack web apps with the MERN stack, and I'm leveling up with Next.js, TypeScript, and Supabase.<br/>
+  Looking for an entry-level or internship role where I can ship real features and keep growing.
 </p>
 
 <br/>
 
 <h3 align="center">🧩 Tech Stack</h3>
 
-<table align="center" border="0">
-<tr>
-<td align="center" width="140"><b>Languages</b></td>
-<td><img src="https://skillicons.dev/icons?i=js,ts" /></td>
-</tr>
-<tr>
-<td align="center"><b>Frontend</b></td>
-<td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" /></td>
-</tr>
-<tr>
-<td align="center"><b>Backend</b></td>
-<td><img src="https://skillicons.dev/icons?i=nodejs,express" /></td>
-</tr>
-<tr>
-<td align="center"><b>Database & BaaS</b></td>
-<td><img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase,firebase" /></td>
-</tr>
-<tr>
-<td align="center"><b>Tools</b></td>
-<td><img src="https://skillicons.dev/icons?i=git,github,vercel,postman" /></td>
-</tr>
-</table>
+<div align="center">
+
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=js,ts" />
+
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+
+**Backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+
+**Database & BaaS**
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase,firebase" />
+
+**Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vercel,postman" />
+
+</div>
 
 <br/>
 
@@ -55,7 +57,7 @@ Building web apps with React, Next.js, Node.js, TypeScript, MongoDB & PostgreSQL
 
 **TrimLink — URL Shortener & Analytics Platform**
 
-Full-stack link shortener with real-time click analytics (device, city, country) — Supabase for Auth/DB/Storage, React + Vite on the frontend, deployed on Vercel.
+Full-stack URL shortener that turns long links into trackable short ones. Users get custom slugs, auto-generated QR codes, and a live analytics dashboard showing clicks by device, city, and country. Auth, database, and storage run on Supabase; forms are validated with Zod + React Hook Form; charts rendered with Recharts.
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
